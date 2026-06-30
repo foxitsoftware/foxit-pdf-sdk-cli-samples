@@ -1,0 +1,82 @@
+{
+  "tables": [
+    {
+      "rect": { "left": 100, "bottom": 550, "right": 495, "top": 742 },
+      "rows": 4,
+      "cols": 3,
+      "border_width": 1,
+      "border_color": "0xFF000000",
+      "cells": [
+        [
+          { "text": "Reference style", "alignment": "left", "font_size": 10, "text_color": "000000", "bold": false, "italic": false, "underline": false, "strikethrough": false, "mark_style": "none", "fill_color": "FFFFFFFF", "font": "Helvetica" },
+          { "text": "Alignment center", "alignment": "center", "font_size": 10, "text_color": "000000", "bold": false, "italic": false, "underline": false, "strikethrough": false, "mark_style": "none", "fill_color": "FFFFFFFF", "font": "Helvetica" },
+          { "text": "Green text color and alignment right", "alignment": "right", "font_size": 10, "text_color": "00FF00", "bold": false, "italic": false, "underline": false, "strikethrough": false, "mark_style": "none", "fill_color": "FFFFFFFF", "font": "Helvetica" }
+        ],
+        [
+          { "text": "Text font size 15", "alignment": "left", "font_size": 15, "text_color": "000000", "bold": false, "italic": false, "underline": false, "strikethrough": false, "mark_style": "none", "fill_color": "FFFFFFFF", "font": "Helvetica" },
+          { "text": "Red text color, Times New Roman font and alignment right", "alignment": "right", "font_size": 10, "text_color": "FF0000", "bold": false, "italic": false, "underline": false, "strikethrough": false, "mark_style": "none", "fill_color": "FFFFFFFF", "font": "Times New Roman" },
+          { "text": "Bold, Times New Roman font and alignment right", "alignment": "right", "font_size": 10, "text_color": "000000", "bold": true, "italic": false, "underline": false, "strikethrough": false, "mark_style": "none", "fill_color": "FFFFFFFF", "font": "Times New Roman" }
+        ],
+        [
+          { "text": "Bold and italic", "alignment": "left", "font_size": 10, "text_color": "000000", "bold": true, "italic": true, "underline": false, "strikethrough": false, "mark_style": "none", "fill_color": "FFFFFFFF", "font": "Helvetica" },
+          { "text": "Bold, italic and alignment center", "alignment": "center", "font_size": 10, "text_color": "000000", "bold": true, "italic": true, "underline": false, "strikethrough": false, "mark_style": "none", "fill_color": "FFFFFFFF", "font": "Helvetica" },
+          { "text": "Underline and alignment right", "alignment": "right", "font_size": 10, "text_color": "000000", "bold": false, "italic": false, "underline": true, "strikethrough": false, "mark_style": "none", "fill_color": "FFFFFFFF", "font": "Helvetica" }
+        ],
+        [
+          { "text": "Strikethrough", "alignment": "left", "font_size": 10, "text_color": "000000", "bold": false, "italic": false, "underline": false, "strikethrough": true, "mark_style": "none", "fill_color": "FFFFFFFF", "font": "Helvetica" },
+          { "text": "CornerMarkSubscript", "alignment": "left", "font_size": 10, "text_color": "000000", "bold": false, "italic": false, "underline": false, "strikethrough": false, "mark_style": "subscript", "fill_color": "FFFFFFFF", "font": "Helvetica" },
+          { "text": "CornerMarkSuperscript", "alignment": "left", "font_size": 10, "text_color": "000000", "bold": false, "italic": false, "underline": false, "strikethrough": false, "mark_style": "superscript", "fill_color": "FFFFFFFF", "font": "Helvetica" }
+        ]
+      ]
+    },
+    {
+      "rect": { "left": 10, "bottom": 200, "right": 585, "top": 492 },
+      "rows": 5,
+      "cols": 6,
+      "border_width": 2,
+      "border_color": "0xFF000000",
+      "cells": [
+        [
+          { "text": "First column", "alignment": "left", "font_size": 10, "text_color": "000000", "bold": false, "italic": false, "underline": false, "strikethrough": false, "mark_style": "none", "fill_color": "FFFFFFFF", "font": "Helvetica" },
+          { "text": "Second column", "alignment": "left", "font_size": 10, "text_color": "000000", "bold": false, "italic": false, "underline": false, "strikethrough": false, "mark_style": "none", "fill_color": "FFFFFFFF", "font": "Helvetica" },
+          { "text": "Third column", "alignment": "left", "font_size": 10, "text_color": "000000", "bold": false, "italic": false, "underline": false, "strikethrough": false, "mark_style": "none", "fill_color": "FFFFFFFF", "font": "Helvetica" },
+          { "text": "Fourth column", "alignment": "left", "font_size": 10, "text_color": "000000", "bold": false, "italic": false, "underline": false, "strikethrough": false, "mark_style": "none", "fill_color": "FFFFFFFF", "font": "Helvetica" },
+          { "text": "Fifth column", "alignment": "left", "font_size": 10, "text_color": "000000", "bold": false, "italic": false, "underline": false, "strikethrough": false, "mark_style": "none", "fill_color": "FFFFFFFF", "font": "Helvetica" },
+          { "text": "2026/6/11-0:0:0 +8:0", "alignment": "left", "font_size": 10, "text_color": "000000", "bold": false, "italic": false, "underline": false, "strikethrough": false, "mark_style": "none", "fill_color": "FFFFFFFF", "font": "Helvetica" }
+        ],
+        [
+          { "text": "First column", "alignment": "center", "font_size": 10, "text_color": "000000", "bold": false, "italic": false, "underline": false, "strikethrough": false, "mark_style": "none", "fill_color": "FFFFFFFF", "font": "Helvetica" },
+          { "text": "Second column", "alignment": "center", "font_size": 10, "text_color": "000000", "bold": false, "italic": false, "underline": false, "strikethrough": false, "mark_style": "none", "fill_color": "FFFFFFFF", "font": "Helvetica" },
+          { "text": "Third column", "alignment": "center", "font_size": 10, "text_color": "000000", "bold": false, "italic": false, "underline": false, "strikethrough": false, "mark_style": "none", "fill_color": "FFFFFFFF", "font": "Helvetica" },
+          { "text": "Fourth column", "alignment": "center", "font_size": 10, "text_color": "000000", "bold": false, "italic": false, "underline": false, "strikethrough": false, "mark_style": "none", "fill_color": "FFFFFFFF", "font": "Helvetica" },
+          { "text": "Fifth column", "alignment": "center", "font_size": 10, "text_color": "000000", "bold": false, "italic": false, "underline": false, "strikethrough": false, "mark_style": "none", "fill_color": "FFFFFFFF", "font": "Helvetica" },
+          { "text": "2026/6/11-0:0:0 +8:0", "alignment": "center", "font_size": 10, "text_color": "000000", "bold": false, "italic": false, "underline": false, "strikethrough": false, "mark_style": "none", "fill_color": "FFFFFFFF", "font": "Helvetica" }
+        ],
+        [
+          { "text": "First column", "alignment": "right", "font_size": 10, "text_color": "00FF00", "bold": false, "italic": false, "underline": false, "strikethrough": false, "mark_style": "none", "fill_color": "FFFFFFFF", "font": "Helvetica" },
+          { "text": "Second column", "alignment": "right", "font_size": 10, "text_color": "00FF00", "bold": false, "italic": false, "underline": false, "strikethrough": false, "mark_style": "none", "fill_color": "FFFFFFFF", "font": "Helvetica" },
+          { "text": "Third column", "alignment": "right", "font_size": 10, "text_color": "00FF00", "bold": false, "italic": false, "underline": false, "strikethrough": false, "mark_style": "none", "fill_color": "FFFFFFFF", "font": "Helvetica" },
+          { "text": "Fourth column", "alignment": "right", "font_size": 10, "text_color": "00FF00", "bold": false, "italic": false, "underline": false, "strikethrough": false, "mark_style": "none", "fill_color": "FFFFFFFF", "font": "Helvetica" },
+          { "text": "Fifth column", "alignment": "right", "font_size": 10, "text_color": "00FF00", "bold": false, "italic": false, "underline": false, "strikethrough": false, "mark_style": "none", "fill_color": "FFFFFFFF", "font": "Helvetica" },
+          { "text": "2026/6/11-0:0:0 +8:0", "alignment": "right", "font_size": 10, "text_color": "00FF00", "bold": false, "italic": false, "underline": false, "strikethrough": false, "mark_style": "none", "fill_color": "FFFFFFFF", "font": "Helvetica" }
+        ],
+        [
+          { "text": "First column", "alignment": "left", "font_size": 15, "text_color": "000000", "bold": false, "italic": false, "underline": false, "strikethrough": false, "mark_style": "none", "fill_color": "FFFFFFFF", "font": "Helvetica" },
+          { "text": "Second column", "alignment": "left", "font_size": 15, "text_color": "000000", "bold": false, "italic": false, "underline": false, "strikethrough": false, "mark_style": "none", "fill_color": "FFFFFFFF", "font": "Helvetica" },
+          { "text": "Third column", "alignment": "left", "font_size": 15, "text_color": "000000", "bold": false, "italic": false, "underline": false, "strikethrough": false, "mark_style": "none", "fill_color": "FFFFFFFF", "font": "Helvetica" },
+          { "text": "Fourth column", "alignment": "left", "font_size": 15, "text_color": "000000", "bold": false, "italic": false, "underline": false, "strikethrough": false, "mark_style": "none", "fill_color": "FFFFFFFF", "font": "Helvetica" },
+          { "text": "Fifth column", "alignment": "left", "font_size": 15, "text_color": "000000", "bold": false, "italic": false, "underline": false, "strikethrough": false, "mark_style": "none", "fill_color": "FFFFFFFF", "font": "Helvetica" },
+          { "text": "2026/6/11-0:0:0 +8:0", "alignment": "left", "font_size": 15, "text_color": "000000", "bold": false, "italic": false, "underline": false, "strikethrough": false, "mark_style": "none", "fill_color": "FFFFFFFF", "font": "Helvetica" }
+        ],
+        [
+          { "text": "First column", "alignment": "right", "font_size": 10, "text_color": "FF0000", "bold": false, "italic": false, "underline": false, "strikethrough": false, "mark_style": "none", "fill_color": "FFFFFFFF", "font": "Times New Roman" },
+          { "text": "Second column", "alignment": "right", "font_size": 10, "text_color": "FF0000", "bold": false, "italic": false, "underline": false, "strikethrough": false, "mark_style": "none", "fill_color": "FFFFFFFF", "font": "Times New Roman" },
+          { "text": "Third column", "alignment": "right", "font_size": 10, "text_color": "FF0000", "bold": false, "italic": false, "underline": false, "strikethrough": false, "mark_style": "none", "fill_color": "FFFFFFFF", "font": "Times New Roman" },
+          { "text": "Fourth column", "alignment": "right", "font_size": 10, "text_color": "FF0000", "bold": false, "italic": false, "underline": false, "strikethrough": false, "mark_style": "none", "fill_color": "FFFFFFFF", "font": "Times New Roman" },
+          { "text": "Fifth column", "alignment": "right", "font_size": 10, "text_color": "FF0000", "bold": false, "italic": false, "underline": false, "strikethrough": false, "mark_style": "none", "fill_color": "FFFFFFFF", "font": "Times New Roman" },
+          { "text": "2026/6/11-0:0:0 +8:0", "alignment": "right", "font_size": 10, "text_color": "FF0000", "bold": false, "italic": false, "underline": false, "strikethrough": false, "mark_style": "none", "fill_color": "FFFFFFFF", "font": "Times New Roman" }
+        ]
+      ]
+    }
+  ]
+}
