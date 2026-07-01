@@ -200,8 +200,8 @@ static bool ValidateArgs(const CliOptions& options) {
   return true;
 }
 
-static const char* sn = "VQv/htdRKu1rjhk90MTKF+/aCs+E1TwQ1TvEjdYeW3tAF/BwfSNSqQ==";
-static const char* key = "ezJvj18mtBp399sXJVWqfHfLliq+pf9v7BPcYPMEPpxz159rzwHa2YFF3YlZHukjsTx1EnsRivFv8AKWWYt1VYVP0FFFK9ZNfK807Wy4D3KhfxFHkjhFaOaEpt3c3iruJRjXvjPGzqPW96741oNr5ypv5klt2seAvt9wnfKKyniUdWC3dCuuUyCOUVCBi0D+T71Oa1VDr1nx/X/EjMJcso7TP+dZGMprZP1LYr/OfcyZ7V6wkP5S16tfvSUuSl8J0Us0MBa0edHfbdME6c1cf7Za78Ut5Kyp6AHVHkUqhnPqhMYmQVX3FXLhQGj7kbNr3t2kuBLIAdilIqcRMnjFgtV362ePhKj/Ed3sCt/afdVRPF9y2A9BRAYgfoYJ9i9TlYkOjmnUbZt+hI5x2kuBUNpZ4uRaKw0em1Y0FeEdJG9qzv0eN2I+0k7f7bUjVu3GRyffKNfvUC+n/SSjhXMRxzowQNfXDcKq51gWzLZpubpcz0RPEe1foBoHHmAD61AQ5YX/DnOGhAME3XhYoz6R76C9UH6kOeiLsfJGMGUoz3IkKLvVC+3CCSR//k7mLc6FaKlriJUaIfLu3sNj7dzsHku295Qqx3FyPM86o8WQE9wQ4skW5DZzrbKM2k0C/8oQIn+hX9aYjR2lIh5sNMaRUlrT3k+wZnF6jZG4Wnef+ruVZ9MCoTqqAJ/C9dlHeha8LblZsQ7cEuQhQAjcILeL3U/HEidcyvOTpjLTZaaR8ECUz1U/58YjONl5bQGK+CRwImlWoTVf0WEfe9I5TMpWtzzgkJ1flh6MXzt+PY5kVdxzYpqyvQbrridjYd44/+d6/7ZNgEIXiHBgil9/y3W2FgrzC1rgMgM630NX/cxOwHtgo15sOkwSlZQA89KNknQm9gVLvRFcG1skXHQ7L4KCSrOba62fi705ucgcj6lJh72fpXNqhetiKuIKmtGK+MSX1ztYJV2ymHue9TZWNkfl6mBV5VbAhrCqSnK82W0OkVNkbv2khSNDbQM5E87AhZOj34v2f45wTp2ssZZSI/eD9K8OKZ1zqhA61tYm8apKrhZJ9hdoYxfYFM1rFhcEARB+7IrPGZKxaeOzXmatKu65/m8zeYxvDdOXptc+3TFU5NgmsJU095yK+FDD2psy5Bep6ZG+/TH/FAqWncjjO7TIbGPfmsKfmI26UNAgC1bh2/+pgQGsfdoIEoboY3LZzzCUQ1tAzf8yOxc5+Sl54Fw=";
+static const char* sn = "";
+static const char* key = "";
 
 #if defined(_WIN32) || defined(_WIN64)
 static WString input_path = WString::FromLocal("../input_files/");
