@@ -30,7 +30,7 @@ using namespace pdf;
 
 static const char* sn = "";
 static const char* key = "";
-s
+
 struct PdfFlattenCommand {
   WString input_file;
   WString output_file;
