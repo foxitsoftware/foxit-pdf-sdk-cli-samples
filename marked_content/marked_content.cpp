@@ -30,7 +30,8 @@ using namespace graphics;
 using namespace objects;
 
 void PrintUsage() {
-  cout << "Usage:" << endl << "marked_content <output pdf path>" << endl << endl <<
+  cout << "Usage:" << endl << "marked_content <input pdf path> <output pdf path>" << endl << endl <<
+      "input pdf path: The input pdf path." << endl <<
       "output pdf path: The output pdf path." << endl;
 }
 
